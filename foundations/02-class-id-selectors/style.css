@@ -1,0 +1,20 @@
+.odd{
+    background:  #FF00FF;
+    font-family: Verdana, sans-serif;
+}
+
+#two{
+    color: #00FFFF;
+    font-size: 36px;
+}
+
+.extraodd{
+    font-size: 24px;
+}
+
+#four{
+    background: #00FF00 ;
+    font-size: 24px;
+    font-weight: bold;
+
+}
